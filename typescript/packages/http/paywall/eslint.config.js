@@ -7,7 +7,15 @@ import importPlugin from "eslint-plugin-import";
 
 export default [
   {
-    ignores: ["dist/**", "node_modules/**"],
+    ignores: [
+      "dist/**",
+      "src/gen/**",
+      "src/dist/**",
+      "src/evm/gen/**",
+      "src/evm/dist/**",
+      "src/svm/gen/**",
+      "src/svm/dist/**",
+    ],
   },
   {
     files: ["**/*.ts"],
