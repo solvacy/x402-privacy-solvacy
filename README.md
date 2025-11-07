@@ -2,7 +2,7 @@
 
 https://solvacy.io
 
-https://x.com/Solvacy_
+https://x.com/Solvacy_1
 
 > "1 line of code to accept digital dollars. No fee, 2 second settlement, $0.001 minimum payment."
 
