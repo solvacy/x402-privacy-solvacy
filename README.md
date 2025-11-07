@@ -1,6 +1,7 @@
 # x402 payments protocol
 
 https://solvacy.io
+
 https://x.com/Solvacy_
 
 > "1 line of code to accept digital dollars. No fee, 2 second settlement, $0.001 minimum payment."
